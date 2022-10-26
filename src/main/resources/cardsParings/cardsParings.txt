@@ -1,0 +1,1 @@
+all cardsParing with weight equals 0.0

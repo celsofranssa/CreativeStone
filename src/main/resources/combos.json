@@ -1,0 +1,890 @@
+[
+  {
+    "id_combo": 1,
+    "hero": "Druid",
+    "questao_um": "Extremely different",
+    "questao_dois": "Very useful",
+    "isHuman": 1,
+    "cardList": "Aviana,Faceless Manipulator,Faceless Manipulator,Malygos,Moonfire,Moonfire"
+  },
+  {
+    "id_combo": 1,
+    "hero": "Druid",
+    "questao_um": "Extremely different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Aviana,Faceless Manipulator,Faceless Manipulator,Malygos,Moonfire,Moonfire"
+  },
+  {
+    "id_combo": 2,
+    "hero": "Druid",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 1,
+    "cardList": "Force of Nature,Innervate,Savage Roar,Savage Roar"
+  },
+  {
+    "id_combo": 2,
+    "hero": "Druid",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 1,
+    "cardList": "Force of Nature,Innervate,Savage Roar,Savage Roar"
+  },
+  {
+    "id_combo": 3,
+    "hero": "Druid",
+    "questao_um": "A bit different",
+    "questao_dois": "Very useful",
+    "isHuman": 1,
+    "cardList": "Faceless Manipulator,Innervate,Innervate,Malygos,Moonfire,Moonfire"
+  },
+  {
+    "id_combo": 3,
+    "hero": "Druid",
+    "questao_um": "A bit different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 1,
+    "cardList": "Faceless Manipulator,Innervate,Innervate,Malygos,Moonfire,Moonfire"
+  },
+  {
+    "id_combo": 4,
+    "hero": "Druid",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 0,
+    "cardList": "Force of Nature,Innervate,Savage Roar,Savage Roar"
+  },
+  {
+    "id_combo": 4,
+    "hero": "Druid",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 0,
+    "cardList": "Force of Nature,Innervate,Savage Roar,Savage Roar"
+  },
+  {
+    "id_combo": 5,
+    "hero": "Druid",
+    "questao_um": "Extremely different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Bluegill Warrior,Bluegill Warrior,Claw,Innervate,Innervate,Mark of Nature,Mark of the Wild,Pint-Sized Summoner,Power of the Wild,Young Dragonhawk"
+  },
+  {
+    "id_combo": 5,
+    "hero": "Druid",
+    "questao_um": "Extremely different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Bluegill Warrior,Bluegill Warrior,Claw,Innervate,Innervate,Mark of Nature,Mark of the Wild,Pint-Sized Summoner,Power of the Wild,Young Dragonhawk"
+  },
+  {
+    "id_combo": 6,
+    "hero": "Druid",
+    "questao_um": "Moderately different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Bloodmage Thalnos,Moonfire,Moonfire,Swipe,Swipe"
+  },
+  {
+    "id_combo": 6,
+    "hero": "Druid",
+    "questao_um": "Nothing different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Bloodmage Thalnos,Moonfire,Moonfire,Swipe,Swipe"
+  },
+  {
+    "id_combo": 7,
+    "hero": "Hunter",
+    "questao_um": "Very different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Arcane Shot,Arcane Shot,Call Pet,Call Pet,Gahz'rilla,Tundra Rhino"
+  },
+  {
+    "id_combo": 7,
+    "hero": "Hunter",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 1,
+    "cardList": "Arcane Shot,Arcane Shot,Call Pet,Call Pet,Gahz'rilla,Tundra Rhino"
+  },
+  {
+    "id_combo": 8,
+    "hero": "Hunter",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 1,
+    "cardList": "Dire Wolf Alpha,Timber Wolf,Timber Wolf,Tundra Rhino"
+  },
+  {
+    "id_combo": 8,
+    "hero": "Hunter",
+    "questao_um": "Extremely different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Dire Wolf Alpha,Timber Wolf,Timber Wolf,Tundra Rhino"
+  },
+  {
+    "id_combo": 9,
+    "hero": "Hunter",
+    "questao_um": "Very different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 1,
+    "cardList": "Bestial Wrath,Timber Wolf,Timber Wolf,Tundra Rhino,Young Dragonhawk,Young Dragonhawk"
+  },
+  {
+    "id_combo": 9,
+    "hero": "Hunter",
+    "questao_um": "Extremely different",
+    "questao_dois": "A bit useful",
+    "isHuman": 1,
+    "cardList": "Bestial Wrath,Timber Wolf,Timber Wolf,Tundra Rhino,Young Dragonhawk,Young Dragonhawk"
+  },
+  {
+    "id_combo": 10,
+    "hero": "Hunter",
+    "questao_um": "A bit different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Timber Wolf,Timber Wolf,Tundra Rhino,Unleash the Hounds"
+  },
+  {
+    "id_combo": 10,
+    "hero": "Hunter",
+    "questao_um": "Nothing different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 0,
+    "cardList": "Timber Wolf,Timber Wolf,Tundra Rhino,Unleash the Hounds"
+  },
+  {
+    "id_combo": 11,
+    "hero": "Hunter",
+    "questao_um": "A bit different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Glaivezooka,Timber Wolf,Timber Wolf,Unleash the Hounds,Unleash the Hounds"
+  },
+  {
+    "id_combo": 11,
+    "hero": "Hunter",
+    "questao_um": "Very different",
+    "questao_dois": "Very useful",
+    "isHuman": 0,
+    "cardList": "Glaivezooka,Timber Wolf,Timber Wolf,Unleash the Hounds,Unleash the Hounds"
+  },
+  {
+    "id_combo": 12,
+    "hero": "Hunter",
+    "questao_um": "A bit different",
+    "questao_dois": "Very useful",
+    "isHuman": 0,
+    "cardList": "Arcane Shot,Arcane Shot,Kill Command,Kill Command,Kobold Geomancer"
+  },
+  {
+    "id_combo": 12,
+    "hero": "Hunter",
+    "questao_um": "Extremely different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 0,
+    "cardList": "Arcane Shot,Arcane Shot,Kill Command,Kill Command,Kobold Geomancer"
+  },
+  {
+    "id_combo": 13,
+    "hero": "Mage",
+    "questao_um": "A bit different",
+    "questao_dois": "Very useful",
+    "isHuman": 1,
+    "cardList": "Arcane Missiles,Arcane Missiles,Flamewaker,Flamewaker,Frostbolt,Frostbolt,Ice Lance,Ice Lance,Mirror Image,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 13,
+    "hero": "Mage",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 1,
+    "cardList": "Arcane Missiles,Arcane Missiles,Flamewaker,Flamewaker,Frostbolt,Frostbolt,Ice Lance,Ice Lance,Mirror Image,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 14,
+    "hero": "Mage",
+    "questao_um": "Moderately different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Arcane Missiles,Fireball,Fireball,Frostbolt,Frostbolt,Ice Lance,Ice Lance,Kobold Geomancer,Sorcerer's Apprentice,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 14,
+    "hero": "Mage",
+    "questao_um": "Moderately different",
+    "questao_dois": "A bit useful",
+    "isHuman": 1,
+    "cardList": "Arcane Missiles,Fireball,Fireball,Frostbolt,Frostbolt,Ice Lance,Ice Lance,Kobold Geomancer,Sorcerer's Apprentice,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 15,
+    "hero": "Mage",
+    "questao_um": "Moderately different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Fireball,Fireball,Frostbolt,Frostbolt,Ice Lance,Ice Lance,Kobold Geomancer,Sorcerer's Apprentice,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 15,
+    "hero": "Mage",
+    "questao_um": "A bit different",
+    "questao_dois": "A bit useful",
+    "isHuman": 1,
+    "cardList": "Fireball,Fireball,Frostbolt,Frostbolt,Ice Lance,Ice Lance,Kobold Geomancer,Sorcerer's Apprentice,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 16,
+    "hero": "Mage",
+    "questao_um": "A bit different",
+    "questao_dois": "Very useful",
+    "isHuman": 0,
+    "cardList": "Fireball,Fireball,Frostbolt,Frostbolt,Ice Lance,Ice Lance,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 16,
+    "hero": "Mage",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 0,
+    "cardList": "Fireball,Fireball,Frostbolt,Frostbolt,Ice Lance,Ice Lance,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 17,
+    "hero": "Mage",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Bloodmage Thalnos,Fireball,Fireball,Frostbolt,Sorcerer's Apprentice,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 17,
+    "hero": "Mage",
+    "questao_um": "Nothing different",
+    "questao_dois": "Very useful",
+    "isHuman": 0,
+    "cardList": "Bloodmage Thalnos,Fireball,Fireball,Frostbolt,Sorcerer's Apprentice,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 18,
+    "hero": "Mage",
+    "questao_um": "Nothing different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Archmage Antonidas,Frostbolt,Ice Lance,Ice Lance,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 18,
+    "hero": "Mage",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 0,
+    "cardList": "Archmage Antonidas,Frostbolt,Ice Lance,Ice Lance,Sorcerer's Apprentice"
+  },
+  {
+    "id_combo": 19,
+    "hero": "Paladin",
+    "questao_um": "A bit different",
+    "questao_dois": "A bit useful",
+    "isHuman": 1,
+    "cardList": "Blessing of Might,Bloodsail Corsair,Bloodsail Corsair,Light's Justice,Ship's Cannon,Ship's Cannon,Southsea Deckhand,Southsea Deckhand"
+  },
+  {
+    "id_combo": 19,
+    "hero": "Paladin",
+    "questao_um": "Extremely different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Blessing of Might,Bloodsail Corsair,Bloodsail Corsair,Light's Justice,Ship's Cannon,Ship's Cannon,Southsea Deckhand,Southsea Deckhand"
+  },
+  {
+    "id_combo": 20,
+    "hero": "Paladin",
+    "questao_um": "A bit different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Arcane Golem,Blessed Champion,Blessing of Might,Blessing of Might,Faceless Manipulator"
+  },
+  {
+    "id_combo": 20,
+    "hero": "Paladin",
+    "questao_um": "Nothing different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Arcane Golem,Blessed Champion,Blessing of Might,Blessing of Might,Faceless Manipulator"
+  },
+  {
+    "id_combo": 21,
+    "hero": "Paladin",
+    "questao_um": "Very different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 1,
+    "cardList": "Abusive Sergeant,Abusive Sergeant,Blessing of Might,Blessing of Might,Faceless Manipulator,Stonetusk Boar"
+  },
+  {
+    "id_combo": 21,
+    "hero": "Paladin",
+    "questao_um": "Extremely different",
+    "questao_dois": "A bit useful",
+    "isHuman": 1,
+    "cardList": "Abusive Sergeant,Abusive Sergeant,Blessing of Might,Blessing of Might,Faceless Manipulator,Stonetusk Boar"
+  },
+  {
+    "id_combo": 22,
+    "hero": "Paladin",
+    "questao_um": "A bit different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Blessing of Might,Blessing of Might,Leeroy Jenkins,Wolfrider"
+  },
+  {
+    "id_combo": 22,
+    "hero": "Paladin",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Blessing of Might,Blessing of Might,Leeroy Jenkins,Wolfrider"
+  },
+  {
+    "id_combo": 23,
+    "hero": "Paladin",
+    "questao_um": "Moderately different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Abusive Sergeant,Arcane Golem,Blessing of Might,Blessing of Might,Dark Iron Dwarf"
+  },
+  {
+    "id_combo": 23,
+    "hero": "Paladin",
+    "questao_um": "Extremely different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 0,
+    "cardList": "Abusive Sergeant,Arcane Golem,Blessing of Might,Blessing of Might,Dark Iron Dwarf"
+  },
+  {
+    "id_combo": 24,
+    "hero": "Paladin",
+    "questao_um": "A bit different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Captain Greenskin,Southsea Deckhand,Truesilver Champion"
+  },
+  {
+    "id_combo": 24,
+    "hero": "Paladin",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Captain Greenskin,Southsea Deckhand,Truesilver Champion"
+  },
+  {
+    "id_combo": 25,
+    "hero": "Priest",
+    "questao_um": "Very different",
+    "questao_dois": "Very useful",
+    "isHuman": 1,
+    "cardList": "Divine Spirit,Divine Spirit,Gnomeregan Infantry,Inner Fire,Power Word: Shield,Power Word: Shield"
+  },
+  {
+    "id_combo": 25,
+    "hero": "Priest",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 1,
+    "cardList": "Divine Spirit,Divine Spirit,Gnomeregan Infantry,Inner Fire,Power Word: Shield,Power Word: Shield"
+  },
+  {
+    "id_combo": 26,
+    "hero": "Priest",
+    "questao_um": "Very different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 1,
+    "cardList": "Circle of Healing,Circle of Healing,Northshire Cleric,Northshire Cleric,Shadowboxer,Shadowboxer,Target Dummy,Target Dummy,Wild Pyromancer"
+  },
+  {
+    "id_combo": 26,
+    "hero": "Priest",
+    "questao_um": "Extremely different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Circle of Healing,Circle of Healing,Northshire Cleric,Northshire Cleric,Shadowboxer,Shadowboxer,Target Dummy,Target Dummy,Wild Pyromancer"
+  },
+  {
+    "id_combo": 27,
+    "hero": "Priest",
+    "questao_um": "Very different",
+    "questao_dois": "Very useful",
+    "isHuman": 1,
+    "cardList": "Holy Smite,Mind Blast,Prophet Velen"
+  },
+  {
+    "id_combo": 27,
+    "hero": "Priest",
+    "questao_um": "Moderately different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 1,
+    "cardList": "Holy Smite,Mind Blast,Prophet Velen"
+  },
+  {
+    "id_combo": 27,
+    "hero": "Priest",
+    "questao_um": "Nothing different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Holy Smite,Mind Blast,Prophet Velen"
+  },
+  {
+    "id_combo": 28,
+    "hero": "Priest",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Bloodmage Thalnos,Holy Smite,Holy Smite,Kobold Geomancer,Mind Blast,Mind Blast"
+  },
+  {
+    "id_combo": 28,
+    "hero": "Priest",
+    "questao_um": "Very different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Bloodmage Thalnos,Holy Smite,Holy Smite,Kobold Geomancer,Mind Blast,Mind Blast"
+  },
+  {
+    "id_combo": 29,
+    "hero": "Priest",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Holy Smite,Mind Blast,Prophet Velen"
+  },
+  {
+    "id_combo": 29,
+    "hero": "Priest",
+    "questao_um": "Extremely different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Holy Smite,Mind Blast,Prophet Velen"
+  },
+  {
+    "id_combo": 30,
+    "hero": "Priest",
+    "questao_um": "Moderately different",
+    "questao_dois": "Very useful",
+    "isHuman": 0,
+    "cardList": "Abusive Sergeant,Arcane Golem,Velen's Chosen,Wolfrider"
+  },
+  {
+    "id_combo": 30,
+    "hero": "Priest",
+    "questao_um": "Moderately different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Abusive Sergeant,Arcane Golem,Velen's Chosen,Wolfrider"
+  },
+  {
+    "id_combo": 30,
+    "hero": "Priest",
+    "questao_um": "A bit different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Abusive Sergeant,Arcane Golem,Velen's Chosen,Wolfrider"
+  },
+  {
+    "id_combo": 31,
+    "hero": "Rogue",
+    "questao_um": "A bit different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Abusive Sergeant,Abusive Sergeant,Arcane Golem,Cold Blood,Cold Blood,Enhance-o Mechano,Preparation,Preparation,Shadowstep,Shadowstep,Tinker's Sharpsword Oil"
+  },
+  {
+    "id_combo": 31,
+    "hero": "Rogue",
+    "questao_um": "Extremely different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 1,
+    "cardList": "Abusive Sergeant,Abusive Sergeant,Arcane Golem,Cold Blood,Cold Blood,Enhance-o Mechano,Preparation,Preparation,Shadowstep,Shadowstep,Tinker's Sharpsword Oil"
+  },
+  {
+    "id_combo": 32,
+    "hero": "Rogue",
+    "questao_um": "Moderately different",
+    "questao_dois": "Very useful",
+    "isHuman": 1,
+    "cardList": "Abusive Sergeant,Abusive Sergeant,Arcane Golem,Cold Blood,Cold Blood,Faceless Manipulator,Preparation,Preparation,Shadowstep,Shadowstep"
+  },
+  {
+    "id_combo": 32,
+    "hero": "Rogue",
+    "questao_um": "Nothing different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 1,
+    "cardList": "Abusive Sergeant,Abusive Sergeant,Arcane Golem,Cold Blood,Cold Blood,Faceless Manipulator,Preparation,Preparation,Shadowstep,Shadowstep"
+  },
+  {
+    "id_combo": 33,
+    "hero": "Rogue",
+    "questao_um": "A bit different",
+    "questao_dois": "Very useful",
+    "isHuman": 1,
+    "cardList": "Cold Blood,Cold Blood,Leeroy Jenkins,Shadowstep,Shadowstep"
+  },
+  {
+    "id_combo": 33,
+    "hero": "Rogue",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 1,
+    "cardList": "Cold Blood,Cold Blood,Leeroy Jenkins,Shadowstep,Shadowstep"
+  },
+  {
+    "id_combo": 34,
+    "hero": "Rogue",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Azure Drake,Eviscerate,Eviscerate,Sinister Strike"
+  },
+  {
+    "id_combo": 34,
+    "hero": "Rogue",
+    "questao_um": "Moderately different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Azure Drake,Eviscerate,Eviscerate,Sinister Strike"
+  },
+  {
+    "id_combo": 35,
+    "hero": "Rogue",
+    "questao_um": "A bit different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Blade Flurry,Cogmaster's Wrench,Deadly Poison,Tinker's Sharpsword Oil"
+  },
+  {
+    "id_combo": 35,
+    "hero": "Rogue",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Blade Flurry,Cogmaster's Wrench,Deadly Poison,Tinker's Sharpsword Oil"
+  },
+  {
+    "id_combo": 36,
+    "hero": "Rogue",
+    "questao_um": "A bit different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 0,
+    "cardList": "Abusive Sergeant,Abusive Sergeant,Bluegill Warrior,Cold Blood,Cold Blood,Reckless Rocketeer,Shadowstep"
+  },
+  {
+    "id_combo": 36,
+    "hero": "Rogue",
+    "questao_um": "A bit different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 0,
+    "cardList": "Abusive Sergeant,Abusive Sergeant,Bluegill Warrior,Cold Blood,Cold Blood,Reckless Rocketeer,Shadowstep"
+  },
+  {
+    "id_combo": 37,
+    "hero": "Shaman",
+    "questao_um": "Nothing different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Ancestor's Call,Flametongue Totem,Reincarnate,Rockbiter Weapon,Rockbiter Weapon"
+  },
+  {
+    "id_combo": 37,
+    "hero": "Shaman",
+    "questao_um": "Extremely different",
+    "questao_dois": "A bit useful",
+    "isHuman": 1,
+    "cardList": "Ancestor's Call,Flametongue Totem,Reincarnate,Rockbiter Weapon,Rockbiter Weapon"
+  },
+  {
+    "id_combo": 38,
+    "hero": "Shaman",
+    "questao_um": "Very different",
+    "questao_dois": "Very useful",
+    "isHuman": 1,
+    "cardList": "Ancestor's Call,Crackle,Frost Shock,Frost Shock,Lightning Bolt,Lightning Bolt,Malygos"
+  },
+  {
+    "id_combo": 38,
+    "hero": "Shaman",
+    "questao_um": "A bit different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 1,
+    "cardList": "Ancestor's Call,Crackle,Frost Shock,Frost Shock,Lightning Bolt,Lightning Bolt,Malygos"
+  },
+  {
+    "id_combo": 39,
+    "hero": "Shaman",
+    "questao_um": "Very different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 1,
+    "cardList": "Crackle,Crackle,Mana Addict,Rockbiter Weapon,Rockbiter Weapon,Windfury"
+  },
+  {
+    "id_combo": 39,
+    "hero": "Shaman",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 1,
+    "cardList": "Crackle,Crackle,Mana Addict,Rockbiter Weapon,Rockbiter Weapon,Windfury"
+  },
+  {
+    "id_combo": 40,
+    "hero": "Shaman",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Bloodmage Thalnos,Crackle,Crackle,Lava Shock,Lightning Bolt,Lightning Bolt"
+  },
+  {
+    "id_combo": 40,
+    "hero": "Shaman",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Bloodmage Thalnos,Crackle,Crackle,Lava Shock,Lightning Bolt,Lightning Bolt"
+  },
+  {
+    "id_combo": 40,
+    "hero": "Shaman",
+    "questao_um": "A bit different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Bloodmage Thalnos,Crackle,Crackle,Lava Shock,Lightning Bolt,Lightning Bolt"
+  },
+  {
+    "id_combo": 41,
+    "hero": "Shaman",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Arcane Golem,Flametongue Totem,Flametongue Totem,Reincarnate,Rockbiter Weapon"
+  },
+  {
+    "id_combo": 41,
+    "hero": "Shaman",
+    "questao_um": "Extremely different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Arcane Golem,Flametongue Totem,Flametongue Totem,Reincarnate,Rockbiter Weapon"
+  },
+  {
+    "id_combo": 42,
+    "hero": "Shaman",
+    "questao_um": "Moderately different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Doomhammer,Frost Shock,Lightning Bolt,Lightning Bolt,Rockbiter Weapon,Rockbiter Weapon"
+  },
+  {
+    "id_combo": 42,
+    "hero": "Shaman",
+    "questao_um": "Moderately different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Doomhammer,Frost Shock,Lightning Bolt,Lightning Bolt,Rockbiter Weapon,Rockbiter Weapon"
+  },
+  {
+    "id_combo": 43,
+    "hero": "Warlock",
+    "questao_um": "Moderately different",
+    "questao_dois": "A bit useful",
+    "isHuman": 1,
+    "cardList": "Bloodmage Thalnos,Darkbomb,Kobold Geomancer,Kobold Geomancer,Soulfire,Soulfire"
+  },
+  {
+    "id_combo": 43,
+    "hero": "Warlock",
+    "questao_um": "Extremely different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Bloodmage Thalnos,Darkbomb,Kobold Geomancer,Kobold Geomancer,Soulfire,Soulfire"
+  },
+  {
+    "id_combo": 44,
+    "hero": "Warlock",
+    "questao_um": "A bit different",
+    "questao_dois": "Very useful",
+    "isHuman": 1,
+    "cardList": "Doomguard,Faceless Manipulator,Faceless Manipulator,Power Overwhelming,Summoning Portal,Summoning Portal"
+  },
+  {
+    "id_combo": 44,
+    "hero": "Warlock",
+    "questao_um": "Extremely different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Doomguard,Faceless Manipulator,Faceless Manipulator,Power Overwhelming,Summoning Portal,Summoning Portal"
+  },
+  {
+    "id_combo": 45,
+    "hero": "Warlock",
+    "questao_um": "Very different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 1,
+    "cardList": "Doomguard,Faceless Manipulator,Power Overwhelming,Sacrificial Pact,Summoning Portal,Summoning Portal,Voidcaller"
+  },
+  {
+    "id_combo": 45,
+    "hero": "Warlock",
+    "questao_um": "Extremely different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 1,
+    "cardList": "Doomguard,Faceless Manipulator,Power Overwhelming,Sacrificial Pact,Summoning Portal,Summoning Portal,Voidcaller"
+  },
+  {
+    "id_combo": 46,
+    "hero": "Warlock",
+    "questao_um": "Moderately different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Azure Drake,Bloodmage Thalnos,Darkbomb,Soulfire"
+  },
+  {
+    "id_combo": 46,
+    "hero": "Warlock",
+    "questao_um": "Nothing different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 0,
+    "cardList": "Azure Drake,Bloodmage Thalnos,Darkbomb,Soulfire"
+  },
+  {
+    "id_combo": 47,
+    "hero": "Warlock",
+    "questao_um": "Moderately different",
+    "questao_dois": "A bit useful",
+    "isHuman": 0,
+    "cardList": "Abusive Sergeant,Abusive Sergeant,Dire Wolf Alpha,Dire Wolf Alpha,Power Overwhelming,Wolfrider"
+  },
+  {
+    "id_combo": 47,
+    "hero": "Warlock",
+    "questao_um": "Extremely different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 0,
+    "cardList": "Abusive Sergeant,Abusive Sergeant,Dire Wolf Alpha,Dire Wolf Alpha,Power Overwhelming,Wolfrider"
+  },
+  {
+    "id_combo": 48,
+    "hero": "Warlock",
+    "questao_um": "A bit different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Arcane Golem,Doomguard,Power Overwhelming,Power Overwhelming"
+  },
+  {
+    "id_combo": 48,
+    "hero": "Warlock",
+    "questao_um": "A bit different",
+    "questao_dois": "Very useful",
+    "isHuman": 0,
+    "cardList": "Arcane Golem,Doomguard,Power Overwhelming,Power Overwhelming"
+  },
+  {
+    "id_combo": 49,
+    "hero": "Warrior",
+    "questao_um": "Nothing different",
+    "questao_dois": "Very useful",
+    "isHuman": 1,
+    "cardList": "Charge,Inner Rage,Inner Rage,Raging Worgen,Rampage,Rampage"
+  },
+  {
+    "id_combo": 49,
+    "hero": "Warrior",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 1,
+    "cardList": "Charge,Inner Rage,Inner Rage,Raging Worgen,Rampage,Rampage"
+  },
+  {
+    "id_combo": 50,
+    "hero": "Warrior",
+    "questao_um": "Nothing different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Grim Patron,Inner Rage,Inner Rage,Warsong Commander,Whirlwind"
+  },
+  {
+    "id_combo": 50,
+    "hero": "Warrior",
+    "questao_um": "Nothing different",
+    "questao_dois": "Extremely useful",
+    "isHuman": 1,
+    "cardList": "Grim Patron,Inner Rage,Inner Rage,Warsong Commander,Whirlwind"
+  },
+  {
+    "id_combo": 51,
+    "hero": "Warrior",
+    "questao_um": "Nothing different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Molten Giant,Warsong Commander,Youthful Brewmaster"
+  },
+  {
+    "id_combo": 51,
+    "hero": "Warrior",
+    "questao_um": "Extremely different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 1,
+    "cardList": "Molten Giant,Warsong Commander,Youthful Brewmaster"
+  },
+  {
+    "id_combo": 52,
+    "hero": "Warrior",
+    "questao_um": "Moderately different",
+    "questao_dois": "Very useful",
+    "isHuman": 0,
+    "cardList": "Charge,Cruel Taskmaster,Inner Rage,Raging Worgen,Rampage"
+  },
+  {
+    "id_combo": 52,
+    "hero": "Warrior",
+    "questao_um": "Nothing different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Charge,Cruel Taskmaster,Inner Rage,Raging Worgen,Rampage"
+  },
+  {
+    "id_combo": 53,
+    "hero": "Warrior",
+    "questao_um": "A bit different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 0,
+    "cardList": "Abusive Sergeant,Echoing Ooze,Inner Rage,Inner Rage,Rampage,Stonetusk Boar,Warsong Commander,Young Dragonhawk"
+  },
+  {
+    "id_combo": 53,
+    "hero": "Warrior",
+    "questao_um": "Extremely different",
+    "questao_dois": "Nothing useful",
+    "isHuman": 0,
+    "cardList": "Abusive Sergeant,Echoing Ooze,Inner Rage,Inner Rage,Rampage,Stonetusk Boar,Warsong Commander,Young Dragonhawk"
+  },
+  {
+    "id_combo": 54,
+    "hero": "Warrior",
+    "questao_um": "Moderately different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Arathi Weaponsmith,Heroic Strike,Heroic Strike,Upgrade!,Upgrade!"
+  },
+  {
+    "id_combo": 54,
+    "hero": "Warrior",
+    "questao_um": "Moderately different",
+    "questao_dois": "Moderately useful",
+    "isHuman": 0,
+    "cardList": "Arathi Weaponsmith,Heroic Strike,Heroic Strike,Upgrade!,Upgrade!"
+  }
+]

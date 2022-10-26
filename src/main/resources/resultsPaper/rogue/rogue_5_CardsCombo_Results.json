@@ -1,0 +1,71 @@
+[{
+        "cardsNames": ["Deadly Poison", "Blade Flurry", "Tinker\u0027s Sharpsword Oil", "Deadly Poison", "Blade Flurry"],
+        "heroName": "ROGUE",
+        "novelty": 0.9644454721580983,
+        "value": 0.4830403611638202,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Deadly Poison", "Blade Flurry", "Deadly Poison", "Blade Flurry", "Tinker\u0027s Sharpsword Oil"],
+        "heroName": "ROGUE",
+        "novelty": 0.9643996457205034,
+        "value": 0.4830403611638202,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Tinker\u0027s Sharpsword Oil", "Blade Flurry", "Blade Flurry", "Deadly Poison", "Deadly Poison"],
+        "heroName": "ROGUE",
+        "novelty": 0.964353914834385,
+        "value": 0.48304036116382026,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Blade Flurry", "Tinker\u0027s Sharpsword Oil", "Blade Flurry", "Deadly Poison", "Deadly Poison"],
+        "heroName": "ROGUE",
+        "novelty": 0.9643082791491732,
+        "value": 0.48304036116382026,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Tinker\u0027s Sharpsword Oil", "Deadly Poison", "Deadly Poison", "Blade Flurry", "Blade Flurry"],
+        "heroName": "ROGUE",
+        "novelty": 0.964262738316216,
+        "value": 0.48304036116382026,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Tinker\u0027s Sharpsword Oil", "Deadly Poison", "Blade Flurry", "Blade Flurry", "Deadly Poison"],
+        "heroName": "ROGUE",
+        "novelty": 0.9642172919887663,
+        "value": 0.48304036116382026,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Blade Flurry", "Blade Flurry", "Deadly Poison", "Deadly Poison", "Tinker\u0027s Sharpsword Oil"],
+        "heroName": "ROGUE",
+        "novelty": 0.964171939821966,
+        "value": 0.4830403611638202,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Deadly Poison", "Blade Flurry", "Deadly Poison", "Tinker\u0027s Sharpsword Oil", "Blade Flurry"],
+        "heroName": "ROGUE",
+        "novelty": 0.9641266814728332,
+        "value": 0.4830403611638202,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Blade Flurry", "Tinker\u0027s Sharpsword Oil", "Deadly Poison", "Deadly Poison", "Blade Flurry"],
+        "heroName": "ROGUE",
+        "novelty": 0.964081516600247,
+        "value": 0.48304036116382026,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Deadly Poison", "Blade Flurry", "Tinker\u0027s Sharpsword Oil", "Deadly Poison", "Blade Flurry"],
+        "heroName": "ROGUE",
+        "novelty": 0.9640364448649342,
+        "value": 0.48304036116382026,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }]

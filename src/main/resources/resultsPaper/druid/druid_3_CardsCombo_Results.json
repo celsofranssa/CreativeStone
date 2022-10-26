@@ -1,0 +1,122 @@
+[
+  {
+    "cardsNames": [
+      "Savage Roar",
+      "Savage Roar",
+      "Keeper of the Grove"
+    ],
+    "heroName": "DRUID",
+    "novelty": 0.9517983836133282,
+    "value": 0.8797314394337574,
+    "description": "1x Keeper of the Grove\n2x Savage Roar\n\nPossible Combinations:\n\nKeeper of the Grove: [Savage Roar]\nSavage Roar: [Keeper of the Grove, Savage Roar]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Keeper of the Grove",
+      "Savage Roar",
+      "Savage Roar"
+    ],
+    "heroName": "DRUID",
+    "novelty": 0.9517673099058627,
+    "value": 0.8797314394337574,
+    "description": "1x Keeper of the Grove\n2x Savage Roar\n\nPossible Combinations:\n\nKeeper of the Grove: [Savage Roar]\nSavage Roar: [Keeper of the Grove, Savage Roar]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Savage Roar",
+      "Keeper of the Grove",
+      "Savage Roar"
+    ],
+    "heroName": "DRUID",
+    "novelty": 0.9517362890965831,
+    "value": 0.8797314394337574,
+    "description": "1x Keeper of the Grove\n2x Savage Roar\n\nPossible Combinations:\n\nKeeper of the Grove: [Savage Roar]\nSavage Roar: [Keeper of the Grove, Savage Roar]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Keeper of the Grove",
+      "Savage Roar",
+      "Savage Roar"
+    ],
+    "heroName": "DRUID",
+    "novelty": 0.9517053210376718,
+    "value": 0.8797314394337574,
+    "description": "1x Keeper of the Grove\n2x Savage Roar\n\nPossible Combinations:\n\nKeeper of the Grove: [Savage Roar]\nSavage Roar: [Keeper of the Grove, Savage Roar]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Keeper of the Grove",
+      "Savage Roar",
+      "Savage Roar"
+    ],
+    "heroName": "DRUID",
+    "novelty": 0.9516744055818639,
+    "value": 0.8797314394337574,
+    "description": "1x Keeper of the Grove\n2x Savage Roar\n\nPossible Combinations:\n\nKeeper of the Grove: [Savage Roar]\nSavage Roar: [Keeper of the Grove, Savage Roar]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Keeper of the Grove",
+      "Savage Roar",
+      "Savage Roar"
+    ],
+    "heroName": "DRUID",
+    "novelty": 0.9516435425824431,
+    "value": 0.8797314394337574,
+    "description": "1x Keeper of the Grove\n2x Savage Roar\n\nPossible Combinations:\n\nKeeper of the Grove: [Savage Roar]\nSavage Roar: [Keeper of the Grove, Savage Roar]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Keeper of the Grove",
+      "Savage Roar",
+      "Savage Roar"
+    ],
+    "heroName": "DRUID",
+    "novelty": 0.9516127318932407,
+    "value": 0.8797314394337574,
+    "description": "1x Keeper of the Grove\n2x Savage Roar\n\nPossible Combinations:\n\nKeeper of the Grove: [Savage Roar]\nSavage Roar: [Keeper of the Grove, Savage Roar]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Savage Roar",
+      "Keeper of the Grove",
+      "Savage Roar"
+    ],
+    "heroName": "DRUID",
+    "novelty": 0.9515819733686325,
+    "value": 0.8797314394337574,
+    "description": "1x Keeper of the Grove\n2x Savage Roar\n\nPossible Combinations:\n\nKeeper of the Grove: [Savage Roar]\nSavage Roar: [Keeper of the Grove, Savage Roar]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Keeper of the Grove",
+      "Savage Roar",
+      "Savage Roar"
+    ],
+    "heroName": "DRUID",
+    "novelty": 0.9515512668635356,
+    "value": 0.8797314394337574,
+    "description": "1x Keeper of the Grove\n2x Savage Roar\n\nPossible Combinations:\n\nKeeper of the Grove: [Savage Roar]\nSavage Roar: [Keeper of the Grove, Savage Roar]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Savage Roar",
+      "Keeper of the Grove",
+      "Savage Roar"
+    ],
+    "heroName": "DRUID",
+    "novelty": 0.9515206122334079,
+    "value": 0.8797314394337574,
+    "description": "1x Keeper of the Grove\n2x Savage Roar\n\nPossible Combinations:\n\nKeeper of the Grove: [Savage Roar]\nSavage Roar: [Keeper of the Grove, Savage Roar]\n",
+    "totalManaCost": 10.0
+  }
+]

@@ -1,0 +1,71 @@
+[{
+        "cardsNames": ["Blade Flurry", "Tinker\u0027s Sharpsword Oil", "Deadly Poison", "Blade Flurry", "Deadly Poison", "Backstab"],
+        "heroName": "ROGUE",
+        "novelty": 0.9642653956902929,
+        "value": 0.4175870051787449,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Backstab\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry, Backstab]\nBackstab: [Deadly Poison]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Deadly Poison", "Tinker\u0027s Sharpsword Oil", "Backstab", "Deadly Poison", "Blade Flurry", "Blade Flurry"],
+        "heroName": "ROGUE",
+        "novelty": 0.9642193627303389,
+        "value": 0.4175870051787449,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Backstab\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry, Backstab]\nBackstab: [Deadly Poison]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Tinker\u0027s Sharpsword Oil", "Backstab", "Blade Flurry", "Deadly Poison", "Deadly Poison", "Blade Flurry"],
+        "heroName": "ROGUE",
+        "novelty": 0.9641734258642697,
+        "value": 0.41758700517874486,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Backstab\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry, Backstab]\nBackstab: [Deadly Poison]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Backstab", "Blade Flurry", "Tinker\u0027s Sharpsword Oil", "Deadly Poison", "Blade Flurry", "Deadly Poison"],
+        "heroName": "ROGUE",
+        "novelty": 0.9641275847395097,
+        "value": 0.4175870051787449,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Backstab\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry, Backstab]\nBackstab: [Deadly Poison]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Deadly Poison", "Blade Flurry", "Blade Flurry", "Tinker\u0027s Sharpsword Oil", "Deadly Poison", "Backstab"],
+        "heroName": "ROGUE",
+        "novelty": 0.9640818390054123,
+        "value": 0.4175870051787449,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Backstab\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry, Backstab]\nBackstab: [Deadly Poison]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Blade Flurry", "SI:7 Agent", "Backstab", "Deadly Poison", "Deadly Poison", "SI:7 Agent"],
+        "heroName": "ROGUE",
+        "novelty": 0.9518776602888591,
+        "value": 0.4049866254236297,
+        "description": "1x Blade Flurry\n2x SI:7 Agent\n2x Deadly Poison\n1x Backstab\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison]\nSI:7 Agent: [Deadly Poison, Backstab]\nDeadly Poison: [Blade Flurry, SI:7 Agent, Backstab]\nBackstab: [SI:7 Agent, Deadly Poison]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Deadly Poison", "Backstab", "SI:7 Agent", "Blade Flurry", "Deadly Poison", "SI:7 Agent"],
+        "heroName": "ROGUE",
+        "novelty": 0.951853080833053,
+        "value": 0.4049866254236297,
+        "description": "1x Blade Flurry\n2x SI:7 Agent\n2x Deadly Poison\n1x Backstab\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison]\nSI:7 Agent: [Deadly Poison, Backstab]\nDeadly Poison: [Blade Flurry, SI:7 Agent, Backstab]\nBackstab: [SI:7 Agent, Deadly Poison]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["SI:7 Agent", "Backstab", "SI:7 Agent", "Blade Flurry", "Deadly Poison", "Deadly Poison"],
+        "heroName": "ROGUE",
+        "novelty": 0.9518285367083628,
+        "value": 0.4049866254236297,
+        "description": "1x Blade Flurry\n2x SI:7 Agent\n2x Deadly Poison\n1x Backstab\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison]\nSI:7 Agent: [Deadly Poison, Backstab]\nDeadly Poison: [Blade Flurry, SI:7 Agent, Backstab]\nBackstab: [SI:7 Agent, Deadly Poison]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Backstab", "Tinker\u0027s Sharpsword Oil", "Deadly Poison", "Blade Flurry", "Blade Flurry", "Deadly Poison"],
+        "heroName": "ROGUE",
+        "novelty": 0.9639676745490042,
+        "value": 0.41758700517874486,
+        "description": "2x Blade Flurry\n2x Deadly Poison\n1x Backstab\n1x Tinker\u0027s Sharpsword Oil\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison, Tinker\u0027s Sharpsword Oil]\nDeadly Poison: [Blade Flurry, Backstab]\nBackstab: [Deadly Poison]\nTinker\u0027s Sharpsword Oil: [Blade Flurry]\n",
+        "totalManaCost": 10.0
+    }, {
+        "cardsNames": ["Deadly Poison", "Backstab", "Deadly Poison", "Blade Flurry", "SI:7 Agent", "SI:7 Agent"],
+        "heroName": "ROGUE",
+        "novelty": 0.9517722639952179,
+        "value": 0.4049866254236297,
+        "description": "1x Blade Flurry\n2x SI:7 Agent\n2x Deadly Poison\n1x Backstab\n\nPossible Combinations:\n\nBlade Flurry: [Deadly Poison]\nSI:7 Agent: [Deadly Poison, Backstab]\nDeadly Poison: [Blade Flurry, SI:7 Agent, Backstab]\nBackstab: [SI:7 Agent, Deadly Poison]\n",
+        "totalManaCost": 10.0
+    }]

@@ -1,0 +1,4513 @@
+{
+    "Shadowform": [{
+            "ability": "transform",
+            "value": 1,
+            "target": "alliedHeroPower"
+        }],
+    "Quartermaster": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Spellbreaker": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "silence",
+            "value": 1,
+            "target": "allMinion"
+        }],
+    "Fen Creeper": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Drakonid Crusher": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Patient Assassin": [{
+            "ability": "stealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Dark Iron Skulker": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allEnemyMinions"
+        }],
+    "Fel Reaver": [{
+            "ability": "discard",
+            "value": 3,
+            "target": "ownDeck"
+        }],
+    "Sword of Justice": [{
+            "ability": "equipe",
+            "value": 5,
+            "target": "alliedHero"
+        }, {
+            "ability": "plusDurability",
+            "value": 1,
+            "target": "ownWeapon"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "ownWeapon"
+        }, {
+            "ability": "loseDurability",
+            "value": 1,
+            "target": "ownWeapon"
+        }],
+    "Shattered Sun Cleric": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Avenging Wrath": [{
+            "ability": "dealDamage",
+            "value": 8,
+            "target": "splitAllEnemyMinion"
+        }],
+    "Mind Control Tech": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "control",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Stormforged Axe": [{
+            "ability": "equip",
+            "value": 6,
+            "target": "alliedHero"
+        }, {
+            "ability": "overload",
+            "value": 1,
+            "target": "ownManaCrystals"
+        }],
+    "Gnomeregan Infantry": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Southsea Captain": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Cleave": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "enemyMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "enemyMinion"
+        }],
+    "Voidcaller": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownBattlefield"
+        }],
+    "Mass Dispel": [{
+            "ability": "silence",
+            "value": 1,
+            "target": "allEnemyMinions"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Dalaran Mage": [{
+            "ability": "spellPower",
+            "value": 1,
+            "target": "alliedCharacter"
+        }],
+    "Shadowboxer": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "enemyCharacter"
+        }],
+    "Junkbot": [{
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Explosive Shot": [{
+            "ability": "dealDamage",
+            "value": 5,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "nextMinions"
+        }],
+    "Holy Smite": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }],
+    "Demonfire": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "enemyMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Deadly Poison": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "ownWeapon"
+        }],
+    "Perdition\u0027s Blade": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "character"
+        }, {
+            "ability": "combo",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }],
+    "Goblin Auto-Barber": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "ownWeapon"
+        }],
+    "Silverback Patriarch": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Nightblade": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "enemyHero"
+        }],
+    "Nat Pagle": [{
+            "ability": "forgetful",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Old Murk-Eye": [{
+            "ability": "plusAttack",
+            "value": 4,
+            "target": "allMinion"
+        }],
+    "Frost Nova": [{
+            "ability": "freeze",
+            "value": 1,
+            "target": "allEnemyMinions"
+        }],
+    "Slam": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Bane of Doom": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Druid of the Flame": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "transform",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Eye for an Eye": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "enemyHero"
+        }],
+    "Nerubian Egg": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Lost Tallstrider": [],
+    "Light of the Naaru": [{
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "character"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "minion"
+        }],
+    "Fire Elemental": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "character"
+        }],
+    "Tundra Rhino": [{
+            "ability": "charge",
+            "value": 5,
+            "target": "alliedMinion"
+        }],
+    "Fireguard Destroyer": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "overload",
+            "value": 1,
+            "target": "ownManaCrystals"
+        }, {
+            "ability": "plusAttack",
+            "value": 4,
+            "target": "alliedMinion"
+        }],
+    "Ethereal Arcanist": [{
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Imp-losion": [{
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "minion"
+        }, {
+            "ability": "summon",
+            "value": 4,
+            "target": "minion"
+        }],
+    "Shrinkmeister": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "loseAttack",
+            "value": 2,
+            "target": "minion"
+        }],
+    "Abomination": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allCharacter"
+        }],
+    "Circle of Healing": [{
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "allMinion"
+        }],
+    "Shielded Minibot": [{
+            "ability": "divineShield",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Warsong Commander": [{
+            "ability": "charge",
+            "value": 3,
+            "target": "minion"
+        }],
+    "War Golem": [],
+    "Baron Geddon": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allCharacter"
+        }],
+    "Captain\u0027s Parrot": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Mad Bomber": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "splitAll"
+        }],
+    "Thrallmar Farseer": [{
+            "ability": "windfury",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Emperor Thaurissan": [{
+            "ability": "reduceCost",
+            "value": 6,
+            "target": "ownHand"
+        }],
+    "Stranglethorn Tiger": [{
+            "ability": "stealth",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Explosive Trap": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allEnemyCharacter"
+        }],
+    "Grove Tender": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusMana",
+            "value": 1,
+            "target": "ownManaCrystals"
+        }, {
+            "ability": "plusMana",
+            "value": 1,
+            "target": "opponentsManaCrystals"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "opponentsHand"
+        }],
+    "Whirling Zap-o-matic": [{
+            "ability": "windfury",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Neptulon": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "summon",
+            "value": 4,
+            "target": "minion"
+        }],
+    "Nerub\u0027ar Weblord": [{
+            "ability": "reduceCost",
+            "value": 2,
+            "target": "ownHand"
+        }],
+    "Ship\u0027s Cannon": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }],
+    "Vol\u0027jin": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusHealth",
+            "value": 5,
+            "target": "minion"
+        }],
+    "Murloc Warleader": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "minion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Bloodmage Thalnos": [{
+            "ability": "spellPower",
+            "value": 1,
+            "target": "alliedCharacter"
+        }, {
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Avenge": [{
+            "ability": "secret",
+            "value": 1,
+            "target": ""
+        }, {
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Anodized Robo Cub": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Zombie Chow": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "enemyHero"
+        }],
+    "Worgen Infiltrator": [{
+            "ability": "stealth",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Arcane Missiles": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "splitAllEnemy"
+        }],
+    "Gahz\u0027rilla": [{
+            "ability": "plusAttack",
+            "value": 7,
+            "target": "minion"
+        }],
+    "Twilight Drake": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "minion"
+        }],
+    "Reckless Rocketeer": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Bloodsail Corsair": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "loseDurability",
+            "value": 1,
+            "target": "opponentsWeapon"
+        }],
+    "Argent Protector": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "divineShield",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Holy Nova": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allEnemyCharacter"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "allAlliedCharacter"
+        }],
+    "Darkbomb": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "character"
+        }],
+    "Savagery": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Kirin Tor Mage": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "reduceCost",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Acidic Swamp Ooze": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "opponentsWeapon"
+        }],
+    "Acolyte of Pain": [{
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Frostbolt": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "character"
+        }, {
+            "ability": "freeze",
+            "value": 1,
+            "target": "character"
+        }],
+    "Feral Spirit": [{
+            "ability": "summon",
+            "value": 2,
+            "target": "minion"
+        }, {
+            "ability": "taunt",
+            "value": 2,
+            "target": "minion"
+        }, {
+            "ability": "overload",
+            "value": 2,
+            "target": "ownManaCrystals"
+        }],
+    "Stampeding Kodo": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Commanding Shout": [{
+            "ability": "immune",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Mekgineer Thermaplugg": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "enemyHero"
+        }],
+    "SI:7 Agent": [{
+            "ability": "combo",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }],
+    "Void Terror": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Shadow Madness": [{
+            "ability": "control",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Echo of Medivh": [{
+            "ability": "copy",
+            "value": 4,
+            "target": "alliedMinion"
+        }],
+    "Undertaker": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Emperor Cobra": [{
+            "ability": "destroy",
+            "value": 3,
+            "target": "minion"
+        }],
+    "Ogre Brute": [{
+            "ability": "forgetful",
+            "value": 1,
+            "target": "enemyCharacter"
+        }],
+    "Mechwarper": [{
+            "ability": "reduceCost",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Wolfrider": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Ice Lance": [{
+            "ability": "freeze",
+            "value": 1,
+            "target": "character"
+        }, {
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "character"
+        }],
+    "Frost Shock": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "enemyCharacter"
+        }, {
+            "ability": "freeze",
+            "value": 1,
+            "target": "enemyCharacter"
+        }],
+    "Bomb Lobber": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "enemyMinion"
+        }],
+    "Spellbender": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "battlefield"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Webspinner": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Siltfin Spiritwalker": [{
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }, {
+            "ability": "overload",
+            "value": 1,
+            "target": "ownManaCrystals"
+        }],
+    "Lorewalker Cho": [{
+            "ability": "copy",
+            "value": 2,
+            "target": "hand"
+        }],
+    "Lightbomb": [{
+            "ability": "dealDamage",
+            "value": 6,
+            "target": "allMinion"
+        }],
+    "Spider Tank": [],
+    "Lava Burst": [{
+            "ability": "dealDamage",
+            "value": 5,
+            "target": "character"
+        }, {
+            "ability": "overload",
+            "value": 2,
+            "target": "ownManaCrystals"
+        }],
+    "Arcane Intellect": [{
+            "ability": "draw",
+            "value": 2,
+            "target": "ownHand"
+        }],
+    "Crackle": [{
+            "ability": "dealDamage",
+            "value": 6,
+            "target": "character"
+        }, {
+            "ability": "overload",
+            "value": 1,
+            "target": "ownManaCrystals"
+        }],
+    "Mirror Image": [{
+            "ability": "summon",
+            "value": 2,
+            "target": "minion"
+        }, {
+            "ability": "taunt",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Oasis Snapjaw": [],
+    "Shadow Word: Death": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Wisp": [],
+    "Kobold Geomancer": [{
+            "ability": "spellPower",
+            "value": 1,
+            "target": "allAlliedCharacter"
+        }],
+    "Sen\u0027jin Shieldmasta": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Tinkmaster Overspark": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "transform",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Dark Wispers": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 5,
+            "target": "ownBattlefield"
+        }, {
+            "ability": "plusHealth",
+            "value": 5,
+            "target": "minion"
+        }, {
+            "ability": "plusAttack",
+            "value": 5,
+            "target": "minion"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Knife Juggler": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Doomguard": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "discard",
+            "value": 2,
+            "target": "ownHand"
+        }],
+    "Imp Gang Boss": [{
+            "ability": "summon",
+            "value": 3,
+            "target": "ownBattlefield"
+        }],
+    "Malorne": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "shuffle",
+            "value": 1,
+            "target": "ownDeck"
+        }],
+    "Gruul": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Jeeves": [{
+            "ability": "draw",
+            "value": 3,
+            "target": "ownHand"
+        }, {
+            "ability": "draw",
+            "value": 3,
+            "target": "opponentsHand"
+        }],
+    "Hand of Protection": [{
+            "ability": "divineShield",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Hungry Crab": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Bolvar Fordragon": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Gadgetzan Auctioneer": [{
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Bite": [{
+            "ability": "plusAttack",
+            "value": 4,
+            "target": "alliedHero"
+        }, {
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "alliedHero"
+        }],
+    "Shade of Naxxramas": [{
+            "ability": "stealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Assassinate": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Violet Teacher": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "ownBattlefield"
+        }],
+    "Seal of Light": [{
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "alliedHero"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedHero"
+        }],
+    "Unbound Elemental": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Mistress of Pain": [{
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedHero"
+        }],
+    "Upgrade!": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "equip",
+            "value": 3,
+            "target": "alliedHero"
+        }],
+    "Bloodlust": [{
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Ogre Warmaul": [{
+            "ability": "forgetful",
+            "value": 1,
+            "target": "enemyCharacter"
+        }],
+    "Snowchugger": [{
+            "ability": "freeze",
+            "value": 1,
+            "target": "enemyCharacter"
+        }],
+    "Dread Corsair": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "reduceCost",
+            "value": 4,
+            "target": "ownHand"
+        }],
+    "Thoughtsteal": [{
+            "ability": "copy",
+            "value": 2,
+            "target": "ownHand"
+        }],
+    "Azure Drake": [{
+            "ability": "spellPower",
+            "value": 1,
+            "target": "alliedCharacter"
+        }, {
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Crazed Alchemist": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "minion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "minion"
+        }],
+    "Frostwolf Grunt": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Feugen": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownBattlefield"
+        }],
+    "Novice Engineer": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Headcrack": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "enemyHero"
+        }, {
+            "ability": "combo",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "return",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Call Pet": [{
+            "ability": "draw",
+            "value": 1,
+            "target": "ownBattlefield"
+        }, {
+            "ability": "reduceCost",
+            "value": 4,
+            "target": "ownHand"
+        }],
+    "Echoing Ooze": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 2,
+            "target": "ownBattlefield"
+        }, {
+            "ability": "copy",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Keeper of the Grove": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }, {
+            "ability": "silence",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Savage Roar": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "allAlliedCharacter"
+        }],
+    "Burly Rockjaw Trogg": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Tauren Warrior": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "enrage",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Multi-Shot": [{
+            "ability": "dealDamage",
+            "value": 6,
+            "target": "minion"
+        }],
+    "Cruel Taskmaster": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "minion"
+        }],
+    "Stalagg": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownBattlefield"
+        }],
+    "Abusive Sergeant": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "minion"
+        }],
+    "Argent Commander": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "divineShield",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Coldlight Seer": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "allAlliedMinions"
+        }],
+    "Lava Shock": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }, {
+            "ability": "plusMana",
+            "value": 2,
+            "target": "ownManaCrystals"
+        }],
+    "Spiteful Smith": [{
+            "ability": "enrage",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "ownWeapon"
+        }],
+    "Corruption": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Tracking": [{
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }, {
+            "ability": "discard",
+            "value": 2,
+            "target": "ownDeck"
+        }],
+    "Young Dragonhawk": [{
+            "ability": "windfury",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Wrath": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "minion"
+        }, {
+            "ability": "deal",
+            "value": 1,
+            "target": "character"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Arcane Golem": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusMana",
+            "value": 1,
+            "target": "opponentsManaCrystals"
+        }],
+    "Polymorph": [{
+            "ability": "transform",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Kel\u0027Thuzad": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "ownBattlefield"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "opponentsBattlefield"
+        }],
+    "Shadowbomber": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "alliedHero"
+        }, {
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "enemyHero"
+        }],
+    "Hungry Dragon": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "opponentsBattlefield"
+        }],
+    "Earthen Ring Farseer": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "character"
+        }],
+    "Soulfire": [{
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "character"
+        }, {
+            "ability": "discard",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Clockwork Giant": [{
+            "ability": "reduceCost",
+            "value": 2,
+            "target": "ownHand"
+        }],
+    "Stoneskin Gargoyle": [{
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Grommash Hellscream": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "enrage",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 6,
+            "target": "alliedMinion"
+        }],
+    "Sunfury Protector": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "taunt",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Unstable Portal": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "ownHand"
+        }, {
+            "ability": "reduceCost",
+            "value": 3,
+            "target": "ownHand"
+        }],
+    "Holy Fire": [{
+            "ability": "dealDamage",
+            "value": 5,
+            "target": "character"
+        }, {
+            "ability": "plusHealth",
+            "value": 5,
+            "target": "alliedHero"
+        }],
+    "Dancing Swords": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "opponentsHand"
+        }],
+    "Metaltooth Leaper": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Dunemaul Shaman": [{
+            "ability": "windfury",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "overload",
+            "value": 1,
+            "target": "ownManaCrystals"
+        }, {
+            "ability": "forgetful",
+            "value": 1,
+            "target": "enemyCharacter"
+        }],
+    "Tree of Life": [{
+            "ability": "plusHealth",
+            "value": 9,
+            "target": "allAlliedCharacter"
+        }],
+    "Ironforge Rifleman": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "character"
+        }],
+    "Force of Nature": [{
+            "ability": "summon",
+            "value": 3,
+            "target": "ownBattlefield"
+        }, {
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Lightwarden": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Eviscerate": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }, {
+            "ability": "combo",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "character"
+        }],
+    "Druid of the Fang": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "transform",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Ancient of Lore": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "draw",
+            "value": 2,
+            "target": "ownDeck"
+        }, {
+            "ability": "plusAttack",
+            "value": 5,
+            "target": "character"
+        }],
+    "Darkscale Healer": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "allAlliedCharacter"
+        }],
+    "Mechanical Yeti": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownHand"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "opponentsHand"
+        }],
+    "Arcanite Reaper": [],
+    "Illuminator": [{
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "alliedHero"
+        }],
+    "Deathwing": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "allMinion"
+        }, {
+            "ability": "discard",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Murloc Tidecaller": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Gelbin Mekkatorque": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Poison Seeds": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "allMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownHand"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Foe Reaper 4000": [{
+            "ability": "dealDamage",
+            "value": 6,
+            "target": "nextMinions"
+        }],
+    "Nefarian": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 2,
+            "target": "ownHand"
+        }],
+    "Sludge Belcher": [{
+            "ability": "taunt",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownBattlefield"
+        }],
+    "Crush": [{
+            "ability": "reduceCost",
+            "value": 4,
+            "target": "ownHand"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Sneed\u0027s Old Shredder": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Loatheb": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusCost",
+            "value": 5,
+            "target": "opponentsHand"
+        }],
+    "The Beast": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Mini-Mage": [{
+            "ability": "stealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "spellPower",
+            "value": 1,
+            "target": "alliedCharacter"
+        }],
+    "Sea Giant": [{
+            "ability": "reduceCost",
+            "value": 7,
+            "target": "ownHand"
+        }],
+    "Al\u0027Akir the Windlord": [{
+            "ability": "windfury",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "divineShield",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Muster for Battle": [{
+            "ability": "summon",
+            "value": 3,
+            "target": "ownBattlefield"
+        }, {
+            "ability": "equip",
+            "value": 4,
+            "target": "alliedHero"
+        }],
+    "Sacrificial Pact": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusHealth",
+            "value": 5,
+            "target": "alliedHero"
+        }],
+    "Young Priestess": [{
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Booty Bay Bodyguard": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Pint-Sized Summoner": [{
+            "ability": "reduceCost",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Flame Imp": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "alliedHero"
+        }],
+    "Mana Wyrm": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "King of Beasts": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 5,
+            "target": "alliedMinion"
+        }],
+    "Reincarnate": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "return",
+            "value": 1,
+            "target": "battlefield"
+        }],
+    "Cobalt Guardian": [{
+            "ability": "divineShield",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Siege Engine": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Summoning Portal": [{
+            "ability": "reduceCost",
+            "value": 4,
+            "target": "ownHand"
+        }],
+    "Backstab": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "minion"
+        }],
+    "Innervate": [{
+            "ability": "plusMana",
+            "value": 2,
+            "target": "ownManaCrystals"
+        }],
+    "Voodoo Doctor": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "character"
+        }],
+    "Gurubashi Berserker": [{
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Blade Flurry": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "ownWeapon"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allEnemyCharacter"
+        }],
+    "Bloodsail Raider": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Ravenholdt Assassin": [{
+            "ability": "stealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Lay on Hands": [{
+            "ability": "plusHealth",
+            "value": 8,
+            "target": "character"
+        }, {
+            "ability": "draw",
+            "value": 3,
+            "target": "ownHand"
+        }],
+    "Mana Tide Totem": [{
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Annoy-o-Tron": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "divineShield",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Earth Elemental": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "overload",
+            "value": 3,
+            "target": "ownManaCrystals"
+        }],
+    "Madder Bomber": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 6,
+            "target": "splitAll"
+        }],
+    "Millhouse Manastorm": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "reduceCost",
+            "value": 1,
+            "target": "opponentsHand"
+        }],
+    "Explosive Sheep": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allMinion"
+        }],
+    "Nourish": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusMana",
+            "value": 2,
+            "target": "ownManaCrystals"
+        }, {
+            "ability": "draw",
+            "value": 3,
+            "target": "ownHand"
+        }],
+    "Mogu\u0027shan Warden": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Twisting Nether": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "allMinion"
+        }],
+    "Recycle": [{
+            "ability": "shuffle",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Goldshire Footman": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Lil\u0027 Exorcist": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Stonetusk Boar": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Blessing of Might": [{
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "minion"
+        }],
+    "Glaivezooka": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Hemet Nesingwary": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Cult Master": [{
+            "ability": "draw",
+            "value": 4,
+            "target": "ownHand"
+        }],
+    "Ancient Watcher": [{
+            "ability": "cantAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Resurrect": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Blessed Champion": [{
+            "ability": "plusAttack",
+            "value": 5,
+            "target": "minion"
+        }],
+    "Grim Patron": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Earth Shock": [{
+            "ability": "silence",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Silver Hand Knight": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Lightning Storm": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "allEnemyMinions"
+        }, {
+            "ability": "overload",
+            "value": 2,
+            "target": "ownManaCrystals"
+        }],
+    "Big Game Hunter": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Solemn Vigil": [{
+            "ability": "draw",
+            "value": 2,
+            "target": "ownHand"
+        }, {
+            "ability": "reduceCost",
+            "value": 5,
+            "target": "ownHand"
+        }],
+    "Mimiron\u0027s Head": [{
+            "ability": "destroy",
+            "value": 3,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "charge",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "megaWindfury",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Alexstrasza": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "allEnemyMinions"
+        }, {
+            "ability": "plusHealth",
+            "value": 9,
+            "target": "hero"
+        }, {
+            "ability": "loseHealth",
+            "value": 9,
+            "target": "hero"
+        }],
+    "Flying Machine": [{
+            "ability": "windfury",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Mind Blast": [{
+            "ability": "dealDamage",
+            "value": 5,
+            "target": "enemyHero"
+        }],
+    "Piloted Shredder": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Soul of the Forest": [{
+            "ability": "deathrattle",
+            "value": 4,
+            "target": "allAlliedMinions"
+        }, {
+            "ability": "taunt",
+            "value": 4,
+            "target": "alliedMinion"
+        }],
+    "Fan of Knives": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "allEnemyMinions"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Faceless Manipulator": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "copy",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Maexxna": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Deadly Shot": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Mana Addict": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Injured Blademaster": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "alliedMinion"
+        }],
+    "Sorcerer\u0027s Apprentice": [{
+            "ability": "reduceCost",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Secretkeeper": [{
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Ragnaros the Firelord": [{
+            "ability": "dealDamage",
+            "value": 8,
+            "target": "enemyMinion"
+        }],
+    "Piloted Sky Golem": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Questing Adventurer": [{
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Starfire": [{
+            "ability": "dealDamage",
+            "value": 5,
+            "target": "allEnemyMinions"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Dragon Consort": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "reduceCost",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Cold Blood": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "minion"
+        }, {
+            "ability": "combo",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusAttack",
+            "value": 4,
+            "target": "minion"
+        }],
+    "Water Elemental": [{
+            "ability": "freeze",
+            "value": 1,
+            "target": "character"
+        }],
+    "Core Hound": [],
+    "Shadowstep": [{
+            "ability": "return",
+            "value": 1,
+            "target": "ownHand"
+        }, {
+            "ability": "reduceCost",
+            "value": 2,
+            "target": "ownHand"
+        }],
+    "Amani Berserker": [{
+            "ability": "enrage",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Aldor Peacekeeper": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "loseAttack",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Micro Machine": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Soot Spewer": [{
+            "ability": "spellDamage",
+            "value": 1,
+            "target": "alliedCharacter"
+        }],
+    "Dragon Egg": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Youthful Brewmaster": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "return",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Timber Wolf": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }],
+    "Razorfen Hunter": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Steamwheedle Sniper": [{
+            "ability": "transform",
+            "value": 1,
+            "target": "alliedHeroPower"
+        }],
+    "Antique Healbot": [{
+            "ability": "plusHealth",
+            "value": 8,
+            "target": "hero"
+        }],
+    "One-eyed Cheat": [{
+            "ability": "stealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Ancestral Spirit": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Ironbeak Owl": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "silence",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Kezan Mystic": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "control",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Gazlowe": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Hogger": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Spectral Knight": [{
+            "ability": "immune",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Mortal Strike": [{
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "character"
+        }, {
+            "ability": "dealDamage",
+            "value": 6,
+            "target": "character"
+        }],
+    "Mark of the Wild": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Windfury": [{
+            "ability": "windfury",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Captain Greenskin": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "ownWeapon"
+        }, {
+            "ability": "plusDurability",
+            "value": 1,
+            "target": "ownWeapon"
+        }],
+    "Siphon Soul": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "alliedHero"
+        }],
+    "Volcanic Drake": [{
+            "ability": "reduceCost",
+            "value": 6,
+            "target": "ownHand"
+        }],
+    "Arcane Nullifier X-21": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "immune",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Ironfur Grizzly": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Arcane Shot": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }],
+    "Gnomish Experimenter": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedHero"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }, {
+            "ability": "transform",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Healing Touch": [{
+            "ability": "plusHealth",
+            "value": 8,
+            "target": "character"
+        }],
+    "Majordomo Executus": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "replaceHero",
+            "value": 1,
+            "target": "alliedHero"
+        }],
+    "Gladiator\u0027s Longbow": [{
+            "ability": "immune",
+            "value": 1,
+            "target": "alliedHero"
+        }],
+    "Wee Spellstopper": [{
+            "ability": "immune",
+            "value": 1,
+            "target": "nextMinions"
+        }],
+    "Holy Wrath": [{
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "character"
+        }],
+    "Screwjank Clunker": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Drain Life": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedHero"
+        }],
+    "Flametongue Totem": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "nextMinions"
+        }],
+    "Tinkertown Technician": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Sprint": [{
+            "ability": "draw",
+            "value": 4,
+            "target": "ownHand"
+        }],
+    "Master of Disguise": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "stealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Kill Command": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "character"
+        }, {
+            "ability": "dealDamage",
+            "value": 5,
+            "target": "character"
+        }],
+    "Pit Lord": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 5,
+            "target": "alliedHero"
+        }],
+    "Temple Enforcer": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Demonwrath": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allMinion"
+        }],
+    "Shiv": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "character"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Nozdormu": [{
+            "ability": "setTurnTime",
+            "value": 15,
+            "target": "opponentsPlayer"
+        }, {
+            "ability": "setTurnTime",
+            "value": 15,
+            "target": "ownPlayer"
+        }],
+    "Snake Trap": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 3,
+            "target": "minion"
+        }],
+    "Leper Gnome": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "enemyHero"
+        }],
+    "Core Rager": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Recombobulator": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "transform",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Arathi Weaponsmith": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "equip",
+            "value": 4,
+            "target": "alliedHero"
+        }],
+    "Cenarius": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "allAlliedMinions"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "allAlliedMinions"
+        }, {
+            "ability": "summon",
+            "value": 2,
+            "target": "minion"
+        }, {
+            "ability": "taunt",
+            "value": 2,
+            "target": "minion"
+        }],
+    "Ogre Ninja": [{
+            "ability": "stealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "forgetful",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Sense Demons": [{
+            "ability": "draw",
+            "value": 2,
+            "target": "ownHand"
+        }],
+    "Elven Archer": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "character"
+        }],
+    "Gang Up": [{
+            "ability": "shuffle",
+            "value": 3,
+            "target": "ownDeck"
+        }],
+    "Death\u0027s Bite": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "allMinion"
+        }],
+    "Deathlord": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "opponentsBattlefield"
+        }],
+    "Iron Sensei": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Gorehowl": [{
+            "ability": "equip",
+            "value": 7,
+            "target": "alliedHero"
+        }, {
+            "ability": "dealDamage",
+            "value": 7,
+            "target": "enemyHero"
+        }, {
+            "ability": "dealDamage",
+            "value": 28,
+            "target": "enemyMinion"
+        }],
+    "Stormwind Champion": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }],
+    "Malygos": [{
+            "ability": "spellPower",
+            "value": 5,
+            "target": "alliedCharacter"
+        }],
+    "Inner Fire": [{
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "minion"
+        }],
+    "Claw": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedHero"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedHero"
+        }],
+    "Master Swordsmith": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Houndmaster": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Shadow Word: Pain": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Flame Leviathan": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allCharacter"
+        }],
+    "Velen\u0027s Chosen": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "minion"
+        }, {
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "minion"
+        }, {
+            "ability": "spellPower",
+            "value": 1,
+            "target": "alliedCharacter"
+        }],
+    "Flamecannon": [{
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "enemyMinion"
+        }],
+    "Salty Dog": [],
+    "Archmage Antonidas": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "ownHand"
+        }, {
+            "ability": "dealDamage",
+            "value": 6,
+            "target": "character"
+        }],
+    "Raging Worgen": [{
+            "ability": "enrage",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "windfury",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Shieldmaiden": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 5,
+            "target": "alliedHero"
+        }],
+    "Frostwolf Warlord": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }],
+    "Defias Ringleader": [{
+            "ability": "combo",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Heroic Strike": [{
+            "ability": "plusAttack",
+            "value": 4,
+            "target": "alliedHero"
+        }],
+    "Flamewaker": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "splitAllEnemy"
+        }],
+    "Blizzard": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allEnemyMinions"
+        }, {
+            "ability": "freeze",
+            "value": 1,
+            "target": "allEnemyMinions"
+        }],
+    "Mech-Bear-Cat": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Kor\u0027kron Elite": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Floating Watcher": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedHero"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedHero"
+        }],
+    "Arcane Explosion": [{
+            "ability": "deal",
+            "value": 1,
+            "target": "allEnemyMinions"
+        }],
+    "Starving Buzzard": [{
+            "ability": "draw",
+            "value": 5,
+            "target": "ownHand"
+        }],
+    "Blingtron 3000": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "equip",
+            "value": 5,
+            "target": "alliedHero"
+        }, {
+            "ability": "equip",
+            "value": 5,
+            "target": "enemyHero"
+        }],
+    "Powermace": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Cairne Bloodhoof": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "legendaryMinion"
+        }],
+    "Demonheart": [{
+            "ability": "deal",
+            "value": 5,
+            "target": "minion"
+        }, {
+            "ability": "plusAttack",
+            "value": 5,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 5,
+            "target": "alliedMinion"
+        }],
+    "Doomsayer": [{
+            "ability": "destroy",
+            "value": 2,
+            "target": "allMinion"
+        }],
+    "Savannah Highmane": [{
+            "ability": "deathrattle",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownBattlefield"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Hammer of Wrath": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "character"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Toshley": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Revenge": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "allMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "allMinion"
+        }],
+    "Battle Rage": [{
+            "ability": "draw",
+            "value": 2,
+            "target": "ownHand"
+        }],
+    "Freezing Trap": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "return",
+            "value": 1,
+            "target": "opponentsHand"
+        }, {
+            "ability": "plusCost",
+            "value": 2,
+            "target": "opponentsHand"
+        }],
+    "Edwin VanCleef": [{
+            "ability": "combo",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Succubus": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "discard",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Sinister Strike": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "enemyHero"
+        }],
+    "Northshire Cleric": [{
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Grimscale Oracle": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Bluegill Warrior": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Baron Rivendare": [{
+            "ability": "deathrattle",
+            "value": 4,
+            "target": "alliedMinion"
+        }],
+    "Totemic Might": [{
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Truesilver Champion": [{
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "alliedHero"
+        }, {
+            "ability": "equip",
+            "value": 8,
+            "target": "alliedHero"
+        }],
+    "Dragonling Mechanic": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Lightwell": [{
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "alliedCharacter"
+        }],
+    "Ice Block": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "immune",
+            "value": 1,
+            "target": "alliedHero"
+        }],
+    "Boulderfist Ogre": [],
+    "Power Word: Shield": [{
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "minion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Armorsmith": [{
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedHero"
+        }],
+    "King Mukla": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 2,
+            "target": "opponentsHand"
+        }],
+    "Shieldbearer": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Animal Companion": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Ancient Brewmaster": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "return",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Prophet Velen": [{
+            "ability": "spellPower",
+            "value": 1,
+            "target": "alliedCharacter"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "character"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedCharacter"
+        }],
+    "Target Dummy": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Assassin\u0027s Blade": [],
+    "Frost Elemental": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "freeze",
+            "value": 1,
+            "target": "character"
+        }],
+    "Tirion Fordring": [{
+            "ability": "divineShield",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "equip",
+            "value": 15,
+            "target": "alliedHero"
+        }],
+    "Anima Golem": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Mind Vision": [{
+            "ability": "copy",
+            "value": 1,
+            "target": "opponentsHand"
+        }],
+    "Loot Hoarder": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Starfall": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 5,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allEnemyMinions"
+        }],
+    "Defender of Argus": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "nextMinions"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "nextMinions"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Dust Devil": [{
+            "ability": "windfury",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "overload",
+            "value": 2,
+            "target": "ownManaCrystals"
+        }],
+    "Ysera": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Ice Barrier": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 8,
+            "target": "alliedHero"
+        }],
+    "Magma Rager": [],
+    "Sunwalker": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "divineShield",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Rend Blackhand": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "legendaryMinion"
+        }],
+    "Vanish": [{
+            "ability": "return",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }, {
+            "ability": "return",
+            "value": 1,
+            "target": "allEnemyMinions"
+        }],
+    "Mindgames": [{
+            "ability": "copy",
+            "value": 1,
+            "target": "ownBattlefield"
+        }],
+    "Hunter\u0027s Mark": [{
+            "ability": "loseHealth",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Voidwalker": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Coldlight Oracle": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "opponentsHand"
+        }],
+    "Dragonkin Sorcerer": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Noble Sacrifice": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "ownBattlefield"
+        }, {
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedHero"
+        }],
+    "Moonfire": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "enemyCharacter"
+        }],
+    "Ancient of War": [{
+            "ability": "plusAttack",
+            "value": 5,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 5,
+            "target": "alliedMinion"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Eaglehorn Bow": [{
+            "ability": "plusDurability",
+            "value": 1,
+            "target": "ownWeapon"
+        }],
+    "Iron Juggernaut": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "opponentDeck"
+        }, {
+            "ability": "dealDamage",
+            "value": 10,
+            "target": "enemyHero"
+        }],
+    "Mal\u0027Ganis": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "allAlliedMinions"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "allAlliedMinions"
+        }, {
+            "ability": "immune",
+            "value": 2,
+            "target": "alliedHero"
+        }],
+    "Quick Shot": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "enemyCharacter"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownDeck"
+        }],
+    "Wailing Soul": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "silence",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }],
+    "Charge": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Shield Block": [{
+            "ability": "plusHealth",
+            "value": 5,
+            "target": "alliedHero"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownDeck"
+        }],
+    "Alarm-o-Bot": [{
+            "ability": "swap",
+            "value": 1,
+            "target": "hand"
+        }],
+    "Scavenging Hyena": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Puddlestomper": [],
+    "Silvermoon Guardian": [{
+            "ability": "divineShield",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Light\u0027s Justice": [],
+    "Cone of Cold": [{
+            "ability": "freeze",
+            "value": 1,
+            "target": "nextMinions"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "nextMinions"
+        }],
+    "Southsea Deckhand": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Misdirection": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedHero"
+        }, {
+            "ability": "forgetful",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Rampage": [{
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Hex": [{
+            "ability": "transform",
+            "value": 1,
+            "target": "enemyMinion"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Vaporize": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedHero"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Power Overwhelming": [{
+            "ability": "plusAttack",
+            "value": 4,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "alliedMinion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Upgraded Repair Bot": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "alliedMinion"
+        }],
+    "Blessing of Kings": [{
+            "ability": "plusAttack",
+            "value": 4,
+            "target": "minion"
+        }, {
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "minion"
+        }],
+    "Whirlwind": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "allMinion"
+        }],
+    "Snipe": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "opponentsBattlefield"
+        }, {
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "enemyMinion"
+        }],
+    "Volcanic Lumberer": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "reduceCost",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Shield Slam": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Naturalize": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "opponentDeck"
+        }],
+    "Windfury Harpy": [{
+            "ability": "windfury",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Gnomish Inventor": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownDeck"
+        }],
+    "Ironbark Protector": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Sabotage": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "enemyMinion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "opponentsWeapon"
+        }],
+    "Mortal Coil": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownDeck"
+        }],
+    "Stormpike Commando": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }, {
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Raid Leader": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }],
+    "Ancestral Healing": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "alliedMinion"
+        }],
+    "King Krush": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Leeroy Jenkins": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "opponentsBattlefield"
+        }],
+    "Fireball": [{
+            "ability": "dealDamage",
+            "value": 6,
+            "target": "character"
+        }],
+    "Mind Control": [{
+            "ability": "control",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Blood Imp": [{
+            "ability": "stealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Ogre Magi": [{
+            "ability": "spellPower",
+            "value": 1,
+            "target": "alliedCharacter"
+        }],
+    "Doomhammer": [{
+            "ability": "windfury",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "overload",
+            "value": 2,
+            "target": "manaCrystals"
+        }],
+    "Elite Tauren Chieftain": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "hand"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "hero"
+        }],
+    "Rockbiter Weapon": [{
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Sylvanas Windrunner": [{
+            "ability": "Deathrattle",
+            "value": 1,
+            "target": "opponentsBattlefield"
+        }, {
+            "ability": "control",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Imp Master": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownBattlefield"
+        }],
+    "Fiery War Axe": [],
+    "Stonesplinter Trogg": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Mogor the Ogre": [{
+            "ability": "forgetful",
+            "value": 1,
+            "target": "allMinion"
+        }],
+    "Shadow Bolt": [{
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "minion"
+        }],
+    "Molten Giant": [{
+            "ability": "reduceCost",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Force-Tank MAX": [{
+            "ability": "divineShield",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Lightspawn": [{
+            "ability": "plusAttack",
+            "value": 5,
+            "target": "alliedMinion"
+        }],
+    "Humility": [{
+            "ability": "loseAttack",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Counterspell": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedCharacter"
+        }, {
+            "ability": "counter",
+            "value": 1,
+            "target": "enemyCharacter"
+        }],
+    "Betrayal": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "nextMinions"
+        }],
+    "Brawl": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "allMinion"
+        }],
+    "Bloodfen Raptor": [],
+    "Trade Prince Gallywix": [{
+            "ability": "copy",
+            "value": 1,
+            "target": "enemyCharacter"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "opponentsHand"
+        }],
+    "Unstable Ghoul": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "allMinion"
+        }],
+    "Dark Iron Dwarf": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Cobra Shot": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "minion"
+        }, {
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "enemyHero"
+        }],
+    "Dr. Boom": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 2,
+            "target": "ownBattlefield"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "enemyCharacter"
+        }],
+    "Mountain Giant": [{
+            "ability": "reduceCost",
+            "value": 4,
+            "target": "ownHand"
+        }],
+    "Shadowflame": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "allEnemyMinions"
+        }],
+    "Clockwork Gnome": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Priestess of Elune": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "alliedHero"
+        }],
+    "Lord Jaraxxus": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedHero"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "alliedHero"
+        }],
+    "Cabal Shadow Priest": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "enemyMinion"
+        }, {
+            "ability": "control",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Archmage": [{
+            "ability": "spellPower",
+            "value": 1,
+            "target": "allAlliedCharacterCharacter"
+        }],
+    "Axe Flinger": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "enemyHero"
+        }],
+    "Bestial Wrath": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "immune",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Guardian of Kings": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "restore",
+            "value": 6,
+            "target": "alliedHero"
+        }],
+    "Unleash the Hounds": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "ownBattlefield"
+        }, {
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Cogmaster\u0027s Wrench": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Ancient Mage": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "nextMinions"
+        }, {
+            "ability": "spellPower",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Chillwind Yeti": [],
+    "Silence": [{
+            "ability": "silence",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Ancestor\u0027s Call": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "ownBattlefield"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "opponentsBattlefield"
+        }],
+    "Dragon\u0027s Breath": [{
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "character"
+        }, {
+            "ability": "cost",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Haunted Creeper": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Argent Squire": [{
+            "ability": "divineShield",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Inner Rage": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "minion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Preparation": [{
+            "ability": "reduceCost",
+            "value": 3,
+            "target": "hand"
+        }],
+    "Blood Knight": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "battlefield"
+        }, {
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Flamestrike": [{
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "allEnemyMinions"
+        }],
+    "Blessing of Wisdom": [{
+            "ability": "draw",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Harvest Golem": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Dark Cultist": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Hellfire": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "allCharacter"
+        }],
+    "Frothing Berserker": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Dread Infernal": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "allCharacter"
+        }],
+    "Mad Scientist": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "secret",
+            "value": 1,
+            "target": "ownBattlefield"
+        }],
+    "Gilblin Stalker": [{
+            "ability": "stealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Conceal": [{
+            "ability": "stealth",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }],
+    "Angry Chicken": [{
+            "ability": "enrage",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 5,
+            "target": "alliedMinion"
+        }],
+    "Fel Cannon": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "minion"
+        }],
+    "Troggzor the Earthinator": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "alliedHero"
+        }],
+    "Murloc Raider": [],
+    "River Crocolisk": [],
+    "Kidnapper": [{
+            "ability": "combo",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "return",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Power of the Wild": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "alliedCharacter"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Dire Wolf Alpha": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "nextMinions"
+        }],
+    "Equality": [{
+            "ability": "loseHealth",
+            "value": 3,
+            "target": "allMinion"
+        }],
+    "Auchenai Soulpriest": [{
+            "ability": "transform",
+            "value": 1,
+            "target": "allCharacter"
+        }],
+    "Enhance-o Mechano": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "allAlliedCharacter"
+        }, {
+            "ability": "windfury",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }, {
+            "ability": "divineShield",
+            "value": 1,
+            "target": "allAlliedMinions"
+        }],
+    "Flare": [{
+            "ability": "stealth",
+            "value": -1,
+            "target": "allCharacter"
+        }, {
+            "ability": "secret",
+            "value": -1,
+            "target": "allCharacter"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownDeck"
+        }],
+    "Hobgoblin": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Scarlet Crusader": [{
+            "ability": "divineShield",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Goblin Blastmage": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "splitAllEnemy"
+        }],
+    "Windspeaker": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "windfury",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Divine Favor": [{
+            "ability": "draw",
+            "value": 3,
+            "target": "ownHand"
+        }],
+    "Chromaggus": [{
+            "ability": "draw",
+            "value": 1,
+            "target": "ownHand"
+        }],
+    "Mark of Nature": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 4,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Twilight Whelp": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Repentance": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedHero"
+        }, {
+            "ability": "loseHealth",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Divine Spirit": [{
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "minion"
+        }],
+    "Venture Co. Mercenary": [{
+            "ability": "cost",
+            "value": 3,
+            "target": "alliedMinion"
+        }],
+    "Sap": [{
+            "ability": "return",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Bouncing Blade": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "minion"
+        }],
+    "Execute": [{
+            "ability": "destroy",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Druid of the Claw": [{
+            "ability": "chooseOne",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 2,
+            "target": "alliedMinion"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Blackwing Technician": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Cogmaster": [{
+            "ability": "plusAttack",
+            "value": 2,
+            "target": "alliedMinion"
+        }],
+    "Forked Lightning": [{
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "enemyMinion"
+        }, {
+            "ability": "overload",
+            "value": 1,
+            "target": "manaCrystals"
+        }],
+    "Goblin Sapper": [{
+            "ability": "plusAttack",
+            "value": 4,
+            "target": "alliedMinion"
+        }],
+    "Pyroblast": [{
+            "ability": "dealDamage",
+            "value": 10,
+            "target": "character"
+        }],
+    "Spirit Wolf": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Wild Growth": [{
+            "ability": "plusMana",
+            "value": 1,
+            "target": "alliedHero"
+        }],
+    "Blackwing Corruptor": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "character"
+        }],
+    "Felguard": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusMana",
+            "value": -1,
+            "target": "manaCrystals"
+        }],
+    "Scarlet Purifier": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "enemyMinion"
+        }],
+    "Coghammer": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "divineShield",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Faerie Dragon": [{
+            "ability": "immune",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Harrison Jones": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "opponentsWeapon"
+        }, {
+            "ability": "draw",
+            "value": 2,
+            "target": "ownDeck"
+        }],
+    "Murloc Tidehunter": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Swipe": [{
+            "ability": "dealDamage",
+            "value": 4,
+            "target": "character"
+        }, {
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "allEnemyCharacter"
+        }],
+    "Consecration": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "allEnemyCharacter"
+        }],
+    "Tinker\u0027s Sharpsword Oil": [{
+            "ability": "plusAttack",
+            "value": 3,
+            "target": "ownWeapon"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Onyxia": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "summon",
+            "value": 6,
+            "target": "alliedMinion"
+        }],
+    "Anub\u0027ar Ambusher": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "return",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Feign Death": [{
+            "ability": "deathrattle",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Wild Pyromancer": [{
+            "ability": "dealDamage",
+            "value": 1,
+            "target": "allMinion"
+        }],
+    "The Black Knight": [{
+            "ability": "battlecry",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "destroy",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Holy Light": [{
+            "ability": "plusHealth",
+            "value": 6,
+            "target": "character"
+        }],
+    "Lord of the Arena": [{
+            "ability": "taunt",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Mirror Entity": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedHero"
+        }, {
+            "ability": "copy",
+            "value": 1,
+            "target": "enemyMinion"
+        }],
+    "Jungle Panther": [{
+            "ability": "stealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Flesheating Ghoul": [{
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Stormwind Knight": [{
+            "ability": "charge",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Far Sight": [{
+            "ability": "reduceCost",
+            "value": 3,
+            "target": "ownHand"
+        }, {
+            "ability": "draw",
+            "value": 1,
+            "target": "ownDeck"
+        }],
+    "Mana Wraith": [{
+            "ability": "plusCost",
+            "value": 1,
+            "target": "allMinion"
+        }],
+    "Duplicate": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedHero"
+        }, {
+            "ability": "copy",
+            "value": 2,
+            "target": "ownBattlefield"
+        }],
+    "Illidan Stormrage": [{
+            "ability": "summon",
+            "value": 1,
+            "target": "minion"
+        }],
+    "Redemption": [{
+            "ability": "secret",
+            "value": 1,
+            "target": "alliedHero"
+        }, {
+            "ability": "lossHealth",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Demolisher": [{
+            "ability": "dealDamage",
+            "value": 2,
+            "target": "character"
+        }],
+    "Lightning Bolt": [{
+            "ability": "dealDamage",
+            "value": 3,
+            "target": "character"
+        }, {
+            "ability": "overload",
+            "value": 1,
+            "target": "manaCrystals"
+        }],
+    "Warbot": [{
+            "ability": "enrage",
+            "value": 1,
+            "target": "alliedMinion"
+        }, {
+            "ability": "plusAttack",
+            "value": 1,
+            "target": "alliedMinion"
+        }],
+    "Vitality Totem": [{
+            "ability": "plusHealth",
+            "value": 4,
+            "target": "alliedHero"
+        }]
+}

@@ -1,0 +1,1 @@
+all cardsParing weighted by cardsCollection_v01.json

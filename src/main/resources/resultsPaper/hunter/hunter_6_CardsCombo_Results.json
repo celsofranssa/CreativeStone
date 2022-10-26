@@ -1,0 +1,152 @@
+[
+  {
+    "cardsNames": [
+      "Explosive Trap",
+      "Eaglehorn Bow",
+      "Hunter\u0027s Mark",
+      "Hunter\u0027s Mark",
+      "Eaglehorn Bow",
+      "Glaivezooka"
+    ],
+    "heroName": "HUNTER",
+    "novelty": 0.956093839118656,
+    "value": 0.45105194218984,
+    "description": "2x Eaglehorn Bow\n1x Glaivezooka\n1x Explosive Trap\n2x Hunter\u0027s Mark\n\nPossible Combinations:\n\nEaglehorn Bow: [Eaglehorn Bow, Explosive Trap, Hunter\u0027s Mark]\nGlaivezooka: [Explosive Trap, Hunter\u0027s Mark]\nExplosive Trap: [Glaivezooka, Eaglehorn Bow, Hunter\u0027s Mark]\nHunter\u0027s Mark: [Glaivezooka, Eaglehorn Bow, Explosive Trap]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Hunter\u0027s Mark",
+      "Explosive Trap",
+      "Eaglehorn Bow",
+      "Hunter\u0027s Mark",
+      "Eaglehorn Bow",
+      "Explosive Trap"
+    ],
+    "heroName": "HUNTER",
+    "novelty": 0.9613995940631616,
+    "value": 0.495970094203934,
+    "description": "2x Eaglehorn Bow\n2x Explosive Trap\n2x Hunter\u0027s Mark\n\nPossible Combinations:\n\nEaglehorn Bow: [Eaglehorn Bow, Explosive Trap, Hunter\u0027s Mark]\nExplosive Trap: [Eaglehorn Bow, Hunter\u0027s Mark]\nHunter\u0027s Mark: [Eaglehorn Bow, Explosive Trap]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Hunter\u0027s Mark",
+      "Glaivezooka",
+      "Hunter\u0027s Mark",
+      "Eaglehorn Bow",
+      "Explosive Trap",
+      "Eaglehorn Bow"
+    ],
+    "heroName": "HUNTER",
+    "novelty": 0.9560316878115993,
+    "value": 0.4510519421898398,
+    "description": "1x Glaivezooka\n2x Eaglehorn Bow\n1x Explosive Trap\n2x Hunter\u0027s Mark\n\nPossible Combinations:\n\nEaglehorn Bow: [Eaglehorn Bow, Explosive Trap, Hunter\u0027s Mark]\nGlaivezooka: [Explosive Trap, Hunter\u0027s Mark]\nExplosive Trap: [Eaglehorn Bow, Glaivezooka, Hunter\u0027s Mark]\nHunter\u0027s Mark: [Eaglehorn Bow, Glaivezooka, Explosive Trap]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Eaglehorn Bow",
+      "Hunter\u0027s Mark",
+      "Hunter\u0027s Mark",
+      "Explosive Trap",
+      "Explosive Trap",
+      "Eaglehorn Bow"
+    ],
+    "heroName": "HUNTER",
+    "novelty": 0.9613389116101257,
+    "value": 0.495970094203934,
+    "description": "2x Eaglehorn Bow\n2x Explosive Trap\n2x Hunter\u0027s Mark\n\nPossible Combinations:\n\nEaglehorn Bow: [Eaglehorn Bow, Explosive Trap, Hunter\u0027s Mark]\nExplosive Trap: [Eaglehorn Bow, Hunter\u0027s Mark]\nHunter\u0027s Mark: [Eaglehorn Bow, Explosive Trap]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Explosive Trap",
+      "Eaglehorn Bow",
+      "Hunter\u0027s Mark",
+      "Eaglehorn Bow",
+      "Hunter\u0027s Mark",
+      "Glaivezooka"
+    ],
+    "heroName": "HUNTER",
+    "novelty": 0.9559697234971991,
+    "value": 0.45105194218984,
+    "description": "2x Eaglehorn Bow\n1x Glaivezooka\n1x Explosive Trap\n2x Hunter\u0027s Mark\n\nPossible Combinations:\n\nEaglehorn Bow: [Eaglehorn Bow, Explosive Trap, Hunter\u0027s Mark]\nGlaivezooka: [Explosive Trap, Hunter\u0027s Mark]\nExplosive Trap: [Eaglehorn Bow, Glaivezooka, Hunter\u0027s Mark]\nHunter\u0027s Mark: [Eaglehorn Bow, Glaivezooka, Explosive Trap]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Hunter\u0027s Mark",
+      "Explosive Trap",
+      "Eaglehorn Bow",
+      "Eaglehorn Bow",
+      "Explosive Trap",
+      "Hunter\u0027s Mark"
+    ],
+    "heroName": "HUNTER",
+    "novelty": 0.961278393807189,
+    "value": 0.495970094203934,
+    "description": "2x Eaglehorn Bow\n2x Explosive Trap\n2x Hunter\u0027s Mark\n\nPossible Combinations:\n\nEaglehorn Bow: [Eaglehorn Bow, Explosive Trap, Hunter\u0027s Mark]\nExplosive Trap: [Eaglehorn Bow, Hunter\u0027s Mark]\nHunter\u0027s Mark: [Eaglehorn Bow, Explosive Trap]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Hunter\u0027s Mark",
+      "Explosive Trap",
+      "Explosive Trap",
+      "Hunter\u0027s Mark",
+      "Eaglehorn Bow",
+      "Eaglehorn Bow"
+    ],
+    "heroName": "HUNTER",
+    "novelty": 0.961245417845196,
+    "value": 0.495970094203934,
+    "description": "2x Eaglehorn Bow\n2x Explosive Trap\n2x Hunter\u0027s Mark\n\nPossible Combinations:\n\nEaglehorn Bow: [Eaglehorn Bow, Explosive Trap, Hunter\u0027s Mark]\nExplosive Trap: [Eaglehorn Bow, Hunter\u0027s Mark]\nHunter\u0027s Mark: [Eaglehorn Bow, Explosive Trap]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Eaglehorn Bow",
+      "Explosive Trap",
+      "Explosive Trap",
+      "Hunter\u0027s Mark",
+      "Eaglehorn Bow",
+      "Hunter\u0027s Mark"
+    ],
+    "heroName": "HUNTER",
+    "novelty": 0.9612124880729809,
+    "value": 0.495970094203934,
+    "description": "2x Eaglehorn Bow\n2x Explosive Trap\n2x Hunter\u0027s Mark\n\nPossible Combinations:\n\nEaglehorn Bow: [Eaglehorn Bow, Explosive Trap, Hunter\u0027s Mark]\nExplosive Trap: [Eaglehorn Bow, Hunter\u0027s Mark]\nHunter\u0027s Mark: [Eaglehorn Bow, Explosive Trap]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Eaglehorn Bow",
+      "Explosive Trap",
+      "Eaglehorn Bow",
+      "Explosive Trap",
+      "Hunter\u0027s Mark",
+      "Hunter\u0027s Mark"
+    ],
+    "heroName": "HUNTER",
+    "novelty": 0.9611796043889163,
+    "value": 0.495970094203934,
+    "description": "2x Eaglehorn Bow\n2x Explosive Trap\n2x Hunter\u0027s Mark\n\nPossible Combinations:\n\nEaglehorn Bow: [Eaglehorn Bow, Explosive Trap, Hunter\u0027s Mark]\nExplosive Trap: [Eaglehorn Bow, Hunter\u0027s Mark]\nHunter\u0027s Mark: [Eaglehorn Bow, Explosive Trap]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Hunter\u0027s Mark",
+      "Eaglehorn Bow",
+      "Eaglehorn Bow",
+      "Hunter\u0027s Mark",
+      "Explosive Trap",
+      "Explosive Trap"
+    ],
+    "heroName": "HUNTER",
+    "novelty": 0.961146766691652,
+    "value": 0.495970094203934,
+    "description": "2x Eaglehorn Bow\n2x Explosive Trap\n2x Hunter\u0027s Mark\n\nPossible Combinations:\n\nEaglehorn Bow: [Eaglehorn Bow, Explosive Trap, Hunter\u0027s Mark]\nExplosive Trap: [Eaglehorn Bow, Hunter\u0027s Mark]\nHunter\u0027s Mark: [Eaglehorn Bow, Explosive Trap]\n",
+    "totalManaCost": 10.0
+  }
+]

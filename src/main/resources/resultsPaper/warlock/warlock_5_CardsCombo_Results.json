@@ -1,0 +1,142 @@
+[
+  {
+    "cardsNames": [
+      "Mortal Coil",
+      "Raging Worgen",
+      "Amani Berserker",
+      "Ironforge Rifleman",
+      "Mortal Coil"
+    ],
+    "heroName": "WARLOCK",
+    "novelty": 0.9455634494861661,
+    "value": 0.28529384904630484,
+    "description": "1x Raging Worgen\n1x Amani Berserker\n1x Ironforge Rifleman\n2x Mortal Coil\n\nPossible Combinations:\n\nRaging Worgen: [Ironforge Rifleman, Mortal Coil]\nAmani Berserker: [Ironforge Rifleman, Mortal Coil]\nIronforge Rifleman: [Raging Worgen, Amani Berserker]\nMortal Coil: [Raging Worgen, Amani Berserker, Mortal Coil]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Amani Berserker",
+      "Elven Archer",
+      "Elven Archer",
+      "Tauren Warrior",
+      "Injured Blademaster"
+    ],
+    "heroName": "WARLOCK",
+    "novelty": 0.9439554050535827,
+    "value": 0.24947247092540278,
+    "description": "2x Elven Archer\n1x Amani Berserker\n1x Injured Blademaster\n1x Tauren Warrior\n\nPossible Combinations:\n\nElven Archer: [Amani Berserker, Tauren Warrior]\nAmani Berserker: [Elven Archer]\nInjured Blademaster: []\nTauren Warrior: [Elven Archer]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Shadow Bolt",
+      "Soulfire",
+      "Bloodmage Thalnos",
+      "Shadow Bolt",
+      "Soulfire"
+    ],
+    "heroName": "WARLOCK",
+    "novelty": 0.9470612821438836,
+    "value": 0.30042883832413997,
+    "description": "2x Shadow Bolt\n1x Bloodmage Thalnos\n2x Soulfire\n\nPossible Combinations:\n\nShadow Bolt: [Bloodmage Thalnos]\nBloodmage Thalnos: [Shadow Bolt, Soulfire]\nSoulfire: [Bloodmage Thalnos, Soulfire]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Hellfire",
+      "Darkbomb",
+      "Bloodmage Thalnos",
+      "Soulfire",
+      "Soulfire"
+    ],
+    "heroName": "WARLOCK",
+    "novelty": 0.947755560252802,
+    "value": 0.2847992169166894,
+    "description": "1x Hellfire\n1x Bloodmage Thalnos\n2x Soulfire\n1x Darkbomb\n\nPossible Combinations:\n\nHellfire: [Bloodmage Thalnos]\nBloodmage Thalnos: [Hellfire, Soulfire, Darkbomb]\nSoulfire: [Bloodmage Thalnos, Soulfire]\nDarkbomb: [Bloodmage Thalnos]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Elven Archer",
+      "Bane of Doom",
+      "Mortal Coil",
+      "Mortal Coil",
+      "Amani Berserker"
+    ],
+    "heroName": "WARLOCK",
+    "novelty": 0.9435751315291153,
+    "value": 0.28256046742513174,
+    "description": "1x Elven Archer\n1x Bane of Doom\n1x Amani Berserker\n2x Mortal Coil\n\nPossible Combinations:\n\nElven Archer: [Amani Berserker]\nBane of Doom: [Amani Berserker, Mortal Coil]\nAmani Berserker: [Elven Archer, Bane of Doom, Mortal Coil]\nMortal Coil: [Bane of Doom, Amani Berserker, Mortal Coil]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Azure Drake",
+      "Mortal Coil",
+      "Darkbomb",
+      "Soulfire",
+      "Soulfire"
+    ],
+    "heroName": "WARLOCK",
+    "novelty": 0.9432953922980231,
+    "value": 0.27522558782799733,
+    "description": "2x Soulfire\n1x Azure Drake\n1x Mortal Coil\n1x Darkbomb\n\nPossible Combinations:\n\nSoulfire: [Soulfire, Azure Drake]\nDarkbomb: [Azure Drake]\nAzure Drake: [Soulfire, Darkbomb, Mortal Coil]\nMortal Coil: [Azure Drake]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Amani Berserker",
+      "Tauren Warrior",
+      "Elven Archer",
+      "Unstable Ghoul",
+      "Explosive Sheep"
+    ],
+    "heroName": "WARLOCK",
+    "novelty": 0.9478878493240651,
+    "value": 0.24284097700872315,
+    "description": "1x Elven Archer\n1x Explosive Sheep\n1x Unstable Ghoul\n1x Amani Berserker\n1x Tauren Warrior\n\nPossible Combinations:\n\nElven Archer: [Amani Berserker, Tauren Warrior]\nExplosive Sheep: [Unstable Ghoul, Amani Berserker, Tauren Warrior]\nUnstable Ghoul: [Explosive Sheep, Amani Berserker, Tauren Warrior]\nAmani Berserker: [Elven Archer, Explosive Sheep, Unstable Ghoul]\nTauren Warrior: [Elven Archer, Explosive Sheep, Unstable Ghoul]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Tauren Warrior",
+      "Elven Archer",
+      "Ironforge Rifleman",
+      "Amani Berserker",
+      "Elven Archer"
+    ],
+    "heroName": "WARLOCK",
+    "novelty": 0.9424159820958049,
+    "value": 0.2865623496431582,
+    "description": "2x Elven Archer\n1x Amani Berserker\n1x Ironforge Rifleman\n1x Tauren Warrior\n\nPossible Combinations:\n\nElven Archer: [Amani Berserker, Tauren Warrior]\nAmani Berserker: [Elven Archer, Ironforge Rifleman]\nIronforge Rifleman: [Amani Berserker, Tauren Warrior]\nTauren Warrior: [Elven Archer, Ironforge Rifleman]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Fel Cannon",
+      "Elven Archer",
+      "Amani Berserker",
+      "Amani Berserker",
+      "Mortal Coil"
+    ],
+    "heroName": "WARLOCK",
+    "novelty": 0.9436687060398613,
+    "value": 0.2518030874938354,
+    "description": "1x Elven Archer\n2x Amani Berserker\n1x Fel Cannon\n1x Mortal Coil\n\nPossible Combinations:\n\nElven Archer: [Amani Berserker]\nAmani Berserker: [Elven Archer, Fel Cannon, Mortal Coil]\nFel Cannon: [Amani Berserker]\nMortal Coil: [Amani Berserker]\n",
+    "totalManaCost": 10.0
+  },
+  {
+    "cardsNames": [
+      "Shadow Bolt",
+      "Dalaran Mage",
+      "Soulfire",
+      "Kobold Geomancer",
+      "Soulfire"
+    ],
+    "heroName": "WARLOCK",
+    "novelty": 0.9448880114193244,
+    "value": 0.26182331054630753,
+    "description": "1x Shadow Bolt\n1x Dalaran Mage\n2x Soulfire\n1x Kobold Geomancer\n\nPossible Combinations:\n\nShadow Bolt: [Dalaran Mage, Kobold Geomancer]\nDalaran Mage: [Shadow Bolt, Soulfire]\nSoulfire: [Dalaran Mage, Soulfire, Kobold Geomancer]\nKobold Geomancer: [Shadow Bolt, Soulfire]\n",
+    "totalManaCost": 10.0
+  }
+]
